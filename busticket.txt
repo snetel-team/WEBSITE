@@ -2,3 +2,7 @@ welcome to the busticket.com
 1.choose the seat which you want..
 2. give the boarding and end point location..
 3. pay the cash through net banking..
+
+
+
+4.if you want to change the seat number/travelling date...
